@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.controlCon {
+  width: 100%;
+  background-color: #475569;
+  color: #f1f5f9;
+  display: flex;
+  flex-direction: column;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+}
+
+.heading-control {
+  color: #f1f5f9;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.listofcheckbox-con {
+  display: flex;
+  flex-direction: column;
+}
+.eachCheckbox {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+}
+.label {
+  color: #f1f5f9;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-left: 5px;
+}
+.checkBoxstyle {
+  transform: scale(1.2);
+}

@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.layoutCon {
+  width: 90%;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 80vh;
+}
